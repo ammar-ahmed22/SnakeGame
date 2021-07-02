@@ -1,6 +1,6 @@
 # ASCII Snake Game
 
-Snake game that is played in the console using ASCII characters. This is one of my first C++ projects. It implements a Snake class to play a snake game on the terminal. Due to the <conio.h> library not being available on UNIX machines, I used code found on a forum to use keyboard inputs without passing the program. There is also ASCII art used to make it more visually appealing.
+Snake game that is played in the console using ASCII characters. This is one of my first C++ projects. It implements a Snake class to play a snake game on the terminal. Due to the <conio.h> library not being available on UNIX machines, I used code found on a forum to use keyboard inputs without pausing the program. There is also ASCII art used to make it more visually appealing.
 
 # What is compile.cpp?
 
