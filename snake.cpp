@@ -109,9 +109,8 @@ void Snake::gameMenu(){
         Snake::startGame();
     }else if (choice == 2){
         int settingChoice;
-        cout << "Settings" << endl;
+        cout << Snake::getASCII("settings.txt");
         cout << endl;
-        cout << "==============================================================" << endl;
         cout << "1. Reset Highscore" << endl;
         cout << "2. Set Highscore" << endl;
 
